@@ -49,9 +49,56 @@ Kami telah menambahkan fitur CAPTCHA dan validasi keamanan tambahan pada Login d
 
 Setelah berhasil menginstal blog website ini, Anda dapat mulai menggunakan fitur-fitur yang ada. Berikut adalah panduan singkat untuk memulai:
 
+- Management Category
+
+### 1. Membuat Kategori Baru
+Untuk membuat kategori baru, ikuti langkah-langkah berikut:
+- Login ke dashboard admin.
+- Klik Tombol Manage Category
+- Pilih menu "Create A Category" di sidebar.
+- Isi judul kategori Anda.
+- Klik tombol **Create Category** untuk menerbitkan artikel.
+
+### 2. Mengedit Postingan
+Untuk mengedit kategori yang sudah ada:
+- Buka dashboard admin dan navigasikan ke menu "Manage Category".
+- Klik tombol **Edit** di sebelah kategori yang ingin Anda ubah.
+- Lakukan perubahan dan klik **Update Category** untuk menyimpan perubahan.
+
+### 3. Menghapus Postingan
+Untuk menghapus kategori yang sudah ada:
+- Navigasikan ke menu "Manage Category" di dashboard admin.
+- Klik tombol **Delete** di sebelah artikel yang ingin dihapus.
+- Konfirmasikan penghapusan dan artikel akan dihapus dari sistem.
+
+- Management Tag
+
+### 1. Membuat Tag Baru
+Untuk membuat tag baru, ikuti langkah-langkah berikut:
+- Login ke dashboard admin.
+- Klik Tombol Manage Tags.
+- Pilih menu "Create A Tag" di sidebar.
+- Isi judul tag Anda.
+- Klik tombol **Create Tag** untuk menerbitkan artikel.
+
+### 2. Mengedit Tag
+Untuk mengedit tag yang sudah ada:
+- Buka dashboard admin dan navigasikan ke menu "Manage Tag".
+- Klik tombol **Edit** di sebelah kategori yang ingin Anda ubah.
+- Lakukan perubahan dan klik **Update Tag** untuk menyimpan perubahan.
+
+### 3. Menghapus Tag
+Untuk menghapus kategori yang sudah ada:
+- Navigasikan ke menu "Manage Tag" di dashboard admin.
+- Klik tombol **Delete** di sebelah artikel yang ingin dihapus.
+- Konfirmasikan penghapusan dan artikel akan dihapus dari sistem.
+
+- Management Post
+
 ### 1. Membuat Postingan Baru
 Untuk membuat postingan baru, ikuti langkah-langkah berikut:
 - Login ke dashboard admin.
+- klik tombol Manage Posts
 - Pilih menu "Create New Post" di sidebar.
 - Isi judul, konten, dan kategori artikel Anda.
 - Klik tombol **Publish** untuk menerbitkan artikel.
@@ -60,7 +107,7 @@ Untuk membuat postingan baru, ikuti langkah-langkah berikut:
 Untuk mengedit postingan yang sudah ada:
 - Buka dashboard admin dan navigasikan ke menu "Manage Posts".
 - Klik tombol **Edit** di sebelah artikel yang ingin Anda ubah.
-- Lakukan perubahan dan klik **Update** untuk menyimpan perubahan.
+- Lakukan perubahan dan klik **Update Post** untuk menyimpan perubahan.
 
 ### 3. Menghapus Postingan
 Untuk menghapus postingan yang sudah ada:
