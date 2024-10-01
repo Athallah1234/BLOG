@@ -126,7 +126,7 @@ Kami memperhatikan aspek keamanan dalam pengembangan proyek ini. Berikut adalah 
 - **Rate Limiting:** Rencana penerapan rate limiting pada fitur login dan registrasi untuk menghindari serangan brute force.
 - **CAPTCHA:** Sistem CAPTCHA akan segera ditambahkan pada halaman login dan registrasi untuk menambah lapisan keamanan.
 
-Jika Anda menemukan masalah keamanan atau celah keamanan, segera hubungi kami di security@yourwebsite.com.
+Jika Anda menemukan masalah keamanan atau celah keamanan, segera hubungi kami di [Sini](https://github.com/Athallah1234/BLOG/issues/2).
 
 ## Lisensi
 Proyek ini dilisensikan di bawah Apache-2.0 license. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
