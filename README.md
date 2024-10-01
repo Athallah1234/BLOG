@@ -23,9 +23,9 @@ Blog Web adalah platform online yang memungkinkan pengguna untuk mempublikasikan
 ## Cara Installasi
 
 - Download File [Disini](https://github.com/Athallah1234/BLOG/releases)
-- Masukkan ke dalam directory htdocs/www
-- extract file Blog.rar pada direktori htdocs/www
-- Konfigurasi file db.php pada direktory ``/Blog/config/d.php`` (jika dibutuhkan)
+- Masukkan ke dalam directory ``htdocs`` (xampp) / ``www`` (laragon)
+- extract file Blog.rar pada direktori ``htdocs``(xampp) / ``www`` (laragon)
+- Konfigurasi file db.php pada direktory ``/Blog/config/db.php`` (jika dibutuhkan)
 - jalankan server xampp/laragon
 - lalu masukkan file sql ke database MySQL/MariaDB atau Database Client seperti phpmyadmin di
   ``localhost:8080/phpmyadmin`` (untuk laragon)
