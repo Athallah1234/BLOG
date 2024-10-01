@@ -49,7 +49,7 @@ Kami telah menambahkan fitur CAPTCHA dan validasi keamanan tambahan pada Login d
 
 Setelah berhasil menginstal blog website ini, Anda dapat mulai menggunakan fitur-fitur yang ada. Berikut adalah panduan singkat untuk memulai:
 
-- Management Category
+A. Management Category
 
 ### 1. Membuat Kategori Baru
 Untuk membuat kategori baru, ikuti langkah-langkah berikut:
@@ -71,7 +71,7 @@ Untuk menghapus kategori yang sudah ada:
 - Klik tombol **Delete** di sebelah artikel yang ingin dihapus.
 - Konfirmasikan penghapusan dan artikel akan dihapus dari sistem.
 
-- Management Tag
+B. Management Tag
 
 ### 1. Membuat Tag Baru
 Untuk membuat tag baru, ikuti langkah-langkah berikut:
@@ -93,7 +93,7 @@ Untuk menghapus kategori yang sudah ada:
 - Klik tombol **Delete** di sebelah artikel yang ingin dihapus.
 - Konfirmasikan penghapusan dan artikel akan dihapus dari sistem.
 
-- Management Post
+C. Management Post
 
 ### 1. Membuat Postingan Baru
 Untuk membuat postingan baru, ikuti langkah-langkah berikut:
