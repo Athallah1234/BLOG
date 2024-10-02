@@ -5,7 +5,7 @@ Blog Web adalah platform online yang memungkinkan pengguna untuk mempublikasikan
 ## Fitur Utama
 
 - **Pembuatan & Pengelolaan Postingan:** Buat, edit, dan hapus artikel dengan antarmuka pengguna yang mudah digunakan.
-- **Sidebar Postingan Terbaru:** Pembaca dapat dengan mudah menemukan artikel terbaru Anda melalui sidebar yang selalu diperbarui.
+- **Sidebar:** Pembaca dapat dengan mudah menemukan artikel terbaru Anda melalui sidebar yang selalu diperbarui.
 - **Postingan Terkait:** Menyediakan rekomendasi artikel yang relevan bagi pembaca di setiap halaman artikel.
 - **Sistem Pencarian Langsung:** Temukan artikel dengan cepat menggunakan fitur pencarian langsung yang interaktif.
 - **Pagination Dinamis:** Lihat postingan dengan nyaman melalui pagination yang dioptimalkan.
